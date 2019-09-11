@@ -2,11 +2,11 @@
 
 <p><b>Key points:</p></b>
 
-<p> Five minutes </p>
-<p> Subject of your choice? Passion? </p>
-<p> Research and Plan </p>
-<p> Rehearse </p>
-<p> Ready to present on Friday </p>
+<p> - Five minutes </p>
+<p> - Subject of your choice? Passion? </p>
+<p> - Research and Plan </p>
+<p> - Rehearse </p>
+<p> - Ready to present on Friday </p>
 
 # Possible Idea
 
