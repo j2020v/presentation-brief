@@ -10,5 +10,5 @@ Main objective: Inclusivity
 ### Research and Plan
 
 Check out schools where they have this programme
-Statistics
-Impact
+<p> Statistics </p>
+<p> Impact </p>
