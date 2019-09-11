@@ -1,6 +1,6 @@
 # Presentation Structure
 
-<p>Key points:</p>
+<p><b>Key points:</p></b>
 
 <p> Five minutes </p>
 <p> Subject of your choice? Passion? </p>
