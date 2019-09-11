@@ -1,9 +1,16 @@
 # Presentation Structure
 
-Subject of your choice?
+<p>Key points:</p>
 
-<p> SIGN LANGUAGE TO BE IMPLEMENTED IN PRIMARY SCHOOL TIMETABLES </p>
+<p> Five minutes </p>
+<p> Subject of your choice? Passion? </p>
+<p> Research and Plan </p>
+<p> Rehearse </p>
+<p> Ready to present on Friday </p>
 
+# Possible Idea
+
+<p> To learn sign language to be implemented in school curricular timetable </p>
 
 ## Why is this important?
 
